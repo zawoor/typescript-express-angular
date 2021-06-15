@@ -1,9 +1,9 @@
 {
-  "name": "chaser",
+  "name": "typescript-express-angular",
   "version": "0.0.1",
   "description": "A template for backend programming with typescript, express.",
   "main": "src/server.ts",
-  "repository": "https://github.com/zawoor/chaser",
+  "repository": "https://github.com/zawoor/typescript-express-angular",
   "author": "Krzysztof Zaborowski <kz@zawoor.com>",
   "license": "MIT",
   "scripts": {
